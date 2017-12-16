@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Encode+Sans|Keania+One');
+
+* {
+    margin: 20px 0 0 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  .stoper {
+      text-align: center;
+      background-color: #000;
+      width: 400px;
+      margin: 0 auto;
+      height: 150px;
+  }
+  .stopwatch {
+    font-family: 'Keania One', cursive;
+    color: #fff;
+    font-size: 80px;
+  }
+  .button {
+    font-family: 'Encode Sans', sans-serif;
+    font-size: 30px;
+    color: #fff;
+    text-decoration: none;
+    padding: 40px;
+  }
